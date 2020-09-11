@@ -1,5 +1,5 @@
 README.md
-Last modified: Fri Sep 11, 2020  06:58PM
+Last modified: Fri Sep 11, 2020  07:15PM
 
 
 
@@ -31,6 +31,7 @@ Bicycle racing, particularly Grand Tours, is very complicated. But it is one of 
 	* Remove the text, and read it out loud instead. 
 	* Use the black arrows to point to what is being talking about. 
 	* This shouldn't be too hard!
+	* For a video version, switch to git lfs (large file storage)
 
 
 ## Trying to create web-graphics version:
