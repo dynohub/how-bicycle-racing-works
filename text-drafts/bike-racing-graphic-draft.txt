@@ -1,0 +1,52 @@
+
+A graphic to explain bike racing
+----------------------------------
+% The first thing you should do here is create the element of a battery on a bicycle, and figure out how to show that it is draining or filling.
+
+
+Bike racing is a complex sport masquerading as a simple one.
+People who haven't watched bike racing think that it's simple: go fast, cross the finish line first.
+But actually, because the engine in bike racing is a human body, winning a bike race is all about conserving energy.
+The techniques to do that are sophisticated, and turn bike racing into one of the most strategic of all sports.
+
+
+1
+People are like batteries.
+Every person riding a bike has a limited amount of energy that can be put into making the bike go.
+And obviously making the bike go faster means using more of that energy.
+And you can only ride for so long before the enegery runs out too.
+Once the battery is drained, the rider needs to eat food or rest to recharge the battery.
+
+
+2.
+You never want to be in first place, until you're crossing the finish line.
+Because of the wind, it is something like 40% easier to ride behind someone than in front.
+This means that in a two-person bike race, you would want to stay in SECOND place for a long as possible - that is, keep your battery as full as possible, and let the other person drain their battery pushing into the wind.
+Just before the finish line, you can then use your more full battery to push past the person in front and win the race.
+
+
+3. 
+Now if you are riding in a race with a team, your whole team can take turns at the front. This way every person drains their battery only a little bit, and has lots of time to recharge. Hopefully at the end of the race you are all still more charged than the other teams.
+
+
+4.
+And if there's MANY teams in a race, different teams can take turns at the front.
+If a team thinks they have bigger batteries than the other teams, they can use that extra energy riding very fast on the front, and making the other teams burn more energy to keep up.
+
+
+5.
+There are different kinds of batteries.
+Some riders have batteries that let go a very powerful amount of energy very quickly - these are sprinters.
+Others can put out a steady stream of energy over long distances - mountain climbers.
+And others will deliberately USE all their battery to help their teammate, by draining other teams down and being in the front for their team leader - domestiques.
+
+6.
+You might use up so much of your battery one day, that it doesn't fully recharge for the next.
+This allows you to win a day race, but lose over all.
+Also, over the course of three weeks, NOBODY gets back up to full charge with one night's rest.
+
+% It's not all strategy, there are moments of sheer sportsmanship (no sport without athletic sportsmanship should be called a professional sport) look for... sprints, etc
+% But it's all about strategy, it's like a chess game at 40 mph.
+
+
+% Add a bit about how doping is like changing to an illegal kind of battery.
