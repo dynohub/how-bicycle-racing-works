@@ -1,5 +1,5 @@
 README.md
-Last modified: Fri Sep 11, 2020  07:15PM
+Last modified: Mon Aug 02, 2021  03:34PM
 
 
 
@@ -32,6 +32,11 @@ Bicycle racing, particularly Grand Tours, is very complicated. But it is one of 
 	* Use the black arrows to point to what is being talking about. 
 	* This shouldn't be too hard!
 	* For a video version, switch to git lfs (large file storage)
+* draft rough pseudocode for bike racing simulator and include with github bike racing graphic repo
+	* (Maybe some programmer out there will be interested in picking it up with you)
+	* find your previous notes on a bike-racing simulator game
+		* Possibly, I never wrote this down? I can't find notes about it anywhere
+	* look through unicode characters and see if there's one that would be a good top-down bike raceer
 
 
 ## Trying to create web-graphics version:
