@@ -1,5 +1,5 @@
 README.md
-Last modified: Mon Aug 02, 2021  03:34PM
+Last modified: Mon Aug 02, 2021  03:36PM
 
 
 
@@ -37,6 +37,9 @@ Bicycle racing, particularly Grand Tours, is very complicated. But it is one of 
 	* find your previous notes on a bike-racing simulator game
 		* Possibly, I never wrote this down? I can't find notes about it anywhere
 	* look through unicode characters and see if there's one that would be a good top-down bike raceer
+* Consider redoing it in a clean all-vector style with Futura type
+	* People might like that more
+
 
 
 ## Trying to create web-graphics version:
