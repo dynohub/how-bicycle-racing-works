@@ -1,5 +1,5 @@
 README.md
-Last modified: Mon Aug 02, 2021  03:36PM
+Last modified: Wed Sep 15, 2021  10:37PM
 
 
 
@@ -27,6 +27,11 @@ Bicycle racing, particularly Grand Tours, is very complicated. But it is one of 
 		* [You could use the Comet jersey photo of Taylor that Noway uploaded to and photoshop jerseys onto him]
 	* It would be interesting to get into some of the strategy, like how teams will try to trick other riders into depleting their batteries too soon.
 	* My brother explains it to non-fans this way: it's like NASCAR, boxing, and chess all together
+* Add a panel that points out that any random group of riders becomes a self-sufficient machine:
+	* the more riders, the more powerful the machine is because they can keep swapping someone to the front while others take a break
+	* so a big group of riders becomes a more powerful machine working together to "chase down" a smaller group.
+	* more weaker riders can overpower a few strong riders like this.
+	* (This is such a strong idea, it might need its own graphic, borrowing the drafting panel as a starting place)
 * Think about doing a video version
 	* Remove the text, and read it out loud instead. 
 	* Use the black arrows to point to what is being talking about. 
