@@ -1,5 +1,5 @@
 README.md
-Last modified: Wed Sep 15, 2021  10:37PM
+Last modified: Wed Sep 22, 2021  09:54PM
 
 
 
@@ -32,6 +32,9 @@ Bicycle racing, particularly Grand Tours, is very complicated. But it is one of 
 	* so a big group of riders becomes a more powerful machine working together to "chase down" a smaller group.
 	* more weaker riders can overpower a few strong riders like this.
 	* (This is such a strong idea, it might need its own graphic, borrowing the drafting panel as a starting place)
+* Bike racing is basically the same thing as Deadliest Catch:
+	* Both put people in survival situations as a generative way create stories.
+	* (Some other sports do this to: football, for instance --- though in that case the greatest generative story might end up being the negative health impacts bringing an end to the popularity of the sport. Other sports focus more on astonishing feats of athleticism --- neat to see, but not as interesting as a story of triumph.)
 * Think about doing a video version
 	* Remove the text, and read it out loud instead. 
 	* Use the black arrows to point to what is being talking about. 
