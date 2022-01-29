@@ -1,5 +1,5 @@
 README.md
-Last modified: Wed Sep 22, 2021  09:54PM
+Last modified: Sat Jan 29, 2022  02:56PM
 
 
 
@@ -22,6 +22,7 @@ Bicycle racing, particularly Grand Tours, is very complicated. But it is one of 
 	* Contains the assembled illustrations I made using elements.
 
 ## Other things to consider adding:
+* Update URL to point to grannycart.net
 * From reddit:
 	* Other Tour de France elements that might be helpful to explain to a beginner - time trial stages - green and polka dot jersey competitions - why the overall winner is determined before the last stage
 		* [You could use the Comet jersey photo of Taylor that Noway uploaded to and photoshop jerseys onto him]
