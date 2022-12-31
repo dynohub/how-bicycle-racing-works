@@ -1,5 +1,5 @@
 README.md
-Last modified: Sat Jan 29, 2022  02:56PM
+Last modified: 2022-12-31 16:05
 
 
 
@@ -20,6 +20,7 @@ Bicycle racing, particularly Grand Tours, is very complicated. But it is one of 
 	* Contains the graphics pieces that make up the figures in the illustrations are made from
 * MTvariants
 	* Contains the assembled illustrations I made using elements.
+* [notes-for-a-bike-racing-video-game](notes-for-a-bike-racing-video-game.md)
 
 ## Other things to consider adding:
 * Update URL to point to grannycart.net
@@ -41,11 +42,6 @@ Bicycle racing, particularly Grand Tours, is very complicated. But it is one of 
 	* Use the black arrows to point to what is being talking about. 
 	* This shouldn't be too hard!
 	* For a video version, switch to git lfs (large file storage)
-* draft rough pseudocode for bike racing simulator and include with github bike racing graphic repo
-	* (Maybe some programmer out there will be interested in picking it up with you)
-	* find your previous notes on a bike-racing simulator game
-		* Possibly, I never wrote this down? I can't find notes about it anywhere
-	* look through unicode characters and see if there's one that would be a good top-down bike raceer
 * Consider redoing it in a clean all-vector style with Futura type
 	* People might like that more
 
