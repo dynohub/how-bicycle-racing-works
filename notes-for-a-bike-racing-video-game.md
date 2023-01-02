@@ -1,5 +1,5 @@
 how-bicycle-racing-works/notes-for-a-bike-racing-video-game.md
-Last modified: 2023-01-01 18:01
+Last modified: 2023-01-01 21:15
 
 # Notes for a bicycle racing video game
 * I've been daydreaming about a game like this for ages.
@@ -105,14 +105,16 @@ Last modified: 2023-01-01 18:01
 	* could have big implications in a multi-day stage race
 * add domestiques capability to bring food and water up to riders (for a batter recharge) but NOT in the final Ks
 * doping:
-	* you can choose to dope your riders
+	* you can choose to dope your riders -- but you have to choose riders to dope before the stage start
 	* but a rider who wins a stage has like a 1/10 chance of being caught
 	* and a rider on the team of the stage winner who is doping has like a 1/20 chance of being caught
 	* if you don't win, you don't get caught
-* Sprinters fall off on mountains
+* Sprinters fall off the back on mountains
 * need to create powerups to keep the game fun
 	* maybe "something special" -- a rider with it can double their battery or output for a distance, but then that gets cut in half after they burn out or something.
 		* Or, incur an energy debt that has to be paid the next day
+	* aerobars
+	* newspaper to stuff in jersey for a long descent
 * procedurally generated european and colombian names
 * a chance that a rider ignores your order ("the rider has switched off their radio! they ignore your order!") 
 	* sometimes this could actually result in a win, though maybe at the cost of a rider's energy you were saving for the next stage.
@@ -122,35 +124,38 @@ Last modified: 2023-01-01 18:01
 * Could look something like this:
 
 
-|                         | Rider : Batt:o : 3
-|                .        | Rider : Batt:. : 2
-|                ..       | Rider : Batt:O : 2
-|                ..       | [Rider : Batt:0] : ?
-|               [.]       | Rider : Batt:0 : 1
-|                         | Rider : Batt:o : 1
-|                         | Rider : Batt:. : 3
-|                         | Rider : Batt:o : x
-|                         | Rider : Batt:o : 2
-|                         | 
-|                         | 
-|                         | Selected rider order?
-|               ...       |       
-|              .....      |     A - Attack
-|             .......     |     1 - Front of group (-batt)
-|             ......      |     2 - Middle of group
-|             ......      |     3 - Read of group (+batt)
-|              ....       |     G - Give up
-|              ....       | 
-|              ...        | 
-|               .         | 
-|                         | 
-|                         | 
-|               xx        | 
-|                         | 
-|                         | 
+|          | Rider 1 : Batt:o : 3
+|     .    | Rider 2 : Batt:. : 2
+|     ..   | Rider 3 : Batt:O : 2
+|     ..   | [Rider 4 : Batt:0] : ?
+|    [.]   | Rider 5 : Batt:0 : 1
+|          | Rider 6 : Batt:o : 1
+|          | Rider 7 : Batt:. : 3
+|          | Rider 8 : Batt:o : x
+|          | Rider 9 : Batt:o : 2
+|          | 
+|          | 
+|          | Selected rider order?
+|    ...   |       
+|   .....  |     A - Attack
+|  ....... |     1 - Front of group (-batt)
+|  ......  |     2 - Middle of group
+|  ......  |     3 - Read of group (+batt)
+|   ....   |     G - Give up
+|   ....   | 
+|   ...    | 
+|    .     | 
+|          | 
+|          | 
+|    xx    | 
+|          | 
+|          | 
 
 
-(maybe include profile of stage and representation of where the groups are down here)
+(maybe include profile of stage and representation of where the groups are on the profile down here)
+(xx shows crashed riders)
+([ ] shows selected rider -- currently last rider in the breakaway -- on your turn you can select each rider and give them an order, obviously you can only select riders on your team)
+(Rider stack on right shows their battery status -- in this mockup a scale like this: .oO0 -- and the rider's current order)
 
 
 
